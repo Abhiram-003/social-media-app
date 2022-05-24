@@ -1,15 +1,22 @@
-# Memories
-
-![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
-
-## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
-
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
-
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
+# Social-Media-App
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
 
-TODO: rename post message, refactor reducers, add some cool memories, maybe clickable tags, fix update functionality"# social-media-app" 
+Add your own Mongodb url in index.js file in server folder
+and add your own client ID in /client/src/components/Auth/Auth.js file
+
+# Registration Page
+![15](https://user-images.githubusercontent.com/81378619/170079272-ed23f4eb-43dc-442e-9f4d-d2cf98667baa.PNG)
+
+# Sign In Page
+
+![14](https://user-images.githubusercontent.com/81378619/170079381-382a4cf6-a8c5-4347-b4fc-00c2f75b4688.PNG)
+
+# Home Page of Logged Out User
+
+![13](https://user-images.githubusercontent.com/81378619/170079514-7a9d2e5e-ffdb-4492-8348-7e43b35bf76e.PNG)
+
+# Home Page of Logged in User
+
+![12](https://user-images.githubusercontent.com/81378619/170079573-6ebea01b-0f28-4bd6-987d-fa583d1a603c.PNG)
